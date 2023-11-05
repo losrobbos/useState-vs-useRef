@@ -5,7 +5,9 @@
 A classical scenario:
 We need to do validation of USER INPUT in a FORM. 
 
-Question: WHEN exactly do we want to DO the validation & and show it to the user?
+E.g. in a Signup form we want to check if the user really gave a valid email and a password that is long enough.
+
+Question: WHEN exactly do we want to DO the validation & and show the result it to the user?
 
 This demo shows the use cases for when to use "state" (=> the useState hook) and when to use refs (=> the useRef hook) for validating INPUT in a FORM.
 
