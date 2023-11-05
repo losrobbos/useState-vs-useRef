@@ -49,6 +49,9 @@ form {
   padding: 0 1rem;
 }
 
+form div {
+  max-width: 200px;
+}
 input, button {
   padding: 10px;
   border-radius: 10px;
@@ -70,5 +73,8 @@ button:hover {
 
 .error {
   color: red;
-  width: 200px;
+}
+
+.hint {
+  font-size: 0.8em;
 }
