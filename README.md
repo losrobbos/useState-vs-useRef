@@ -20,5 +20,5 @@ Simply put:
 
 If you want to that your user sees some VISUAL change in your UI IMMEDIATELY after data has changed => use "state" to store that data!
 
-If you do not IMMEDIATELY want to show a VISUAL change in your UI, and just want to store the new data in the meantime for later usage => use refs!
+If you NOT IMMEDIATELY want to show a VISUAL change in your UI, and just want to store the data in the meantime for LATER usage => use refs!
 
